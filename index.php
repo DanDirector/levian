@@ -4,6 +4,7 @@
 	<title>Levian</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
@@ -45,5 +46,26 @@
 		</div>
 	</div>
 </section>
+<footer>
+	<div class="social">
+		<a href="#">
+			<i class="fa fa-vk" aria-hidden="true"></i>
+		</a>
+		<a href="">
+			<i class="fa fa-instagram" aria-hidden="true"></i>
+		</a>
+		<a href="">
+			<i class="fa fa-twitter" aria-hidden="true"></i>
+		</a>
+		<a href="">
+			<i class="fa fa-skype" aria-hidden="true"></i>
+		</a>
+		<a href="">
+			<i class="fa fa-facebook" aria-hidden="true"></i>
+		</a>
+	</div>
+	<div class="info">© Levian 2017</div>
+</footer>	
+
 </body>
 </html>
