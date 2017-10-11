@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa:700&subset=cyrillic-ext');
+
+@font-face {
+  font-family: "AvantGardeGothicC";
+  src: url("../font/AvantGardeGothicC.eot");
+  src: url("../font/AvantGardeGothicC.eot?#iefix")format("embedded-opentype"),
+  url("../font/AvantGardeGothicC.woff") format("woff"),
+  url("../font/AvantGardeGothicC.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
 body {
   background-color: #e7e5e4;
 }
 h1 {
   margin: 0;
-  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-family: "AvantGardeGothicC", "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 40px;
   padding: 45px 50px;
   text-align: center;

@@ -78,6 +78,7 @@
 		</a>
 	</div>
 	<div class="info">© Levian 2017</div>
+	<div class="info">Разработка сайта <a href="http://pumpom.com">PumPom</a></div>
 </footer>	
 
 </body>
